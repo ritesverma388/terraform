@@ -1,0 +1,16 @@
+variable "rds_subnet1"{
+
+}
+
+variable "rds_subnet2"{
+
+}
+
+variable "rds_vpc_id"{
+
+}
+
+
+variable "ssh_http_Security_group" {
+
+}
